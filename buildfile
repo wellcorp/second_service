@@ -1,3 +1,1 @@
-service {
-  language = "ruby"
-}
+service { }
